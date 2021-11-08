@@ -1,0 +1,30 @@
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.dll.config
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.pdb
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.xml
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.csprojResolveAssemblyReference.cache
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.pdb
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.dll.config
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.dll
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.pdb
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.dll
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.xml
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.csprojResolveAssemblyReference.cache
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.dll
+D:\_Unah-Vs Actual\2021 - 3 - 1800 - IA086 - Lenguaje de Programación III\Proyectos\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.pdb
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.dll
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.pdb
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.dll.config
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.dll
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\BL.Fashion.pdb
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.dll
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.xml
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Proyectos\LP31800\Fashion-Station\BL.Fashion\obj\Debug\BL.Fashion.csprojResolveAssemblyReference.cache
